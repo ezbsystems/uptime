@@ -4,13 +4,13 @@ repo: uptime # The name of this repository
 
 sites:
   - name: csw-ezb
-    url: csw.eazybackup.ca
+    url: https://csw.eazybackup.ca/
   - name: csw-obc
-    url: csw.onlinebackupcanada.ca
-  - name: ezb
-    url: csw.onlinebackupcanada.ca
+    url: https://csw.onlinebackupcanada.ca
+  - name: Website
+    url: https://eazybackup.com/
   - name: Dashboard
-    url: dashboard.eazybackup.ca
+    url: https://dashboard.eazybackup.ca
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
