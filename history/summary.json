@@ -4,18 +4,20 @@
     "url": "https://csw.eazybackup.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/csw.eazybackup.ca.ico",
     "slug": "csw-ezb",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 256,
-    "timeDay": 235,
-    "timeWeek": 256,
-    "timeMonth": 256,
-    "timeYear": 256,
-    "dailyMinutesDown": {}
+    "time": 249,
+    "timeDay": 186,
+    "timeWeek": 249,
+    "timeMonth": 249,
+    "timeYear": 249,
+    "dailyMinutesDown": {
+      "2023-01-20": 0
+    }
   },
   {
     "name": "csw-obc",
@@ -23,16 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/csw.onlinebackupcanada.ca.ico",
     "slug": "csw-obc",
     "status": "up",
-    "uptime": "99.51%",
+    "uptime": "99.60%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "99.51%",
-    "uptimeYear": "99.51%",
-    "time": 202,
-    "timeDay": 223,
-    "timeWeek": 202,
-    "timeMonth": 202,
-    "timeYear": 202,
+    "uptimeWeek": "99.60%",
+    "uptimeMonth": "99.60%",
+    "uptimeYear": "99.60%",
+    "time": 205,
+    "timeDay": 221,
+    "timeWeek": 205,
+    "timeMonth": 205,
+    "timeYear": 205,
     "dailyMinutesDown": {
       "2023-01-15": 31
     }
@@ -48,11 +50,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 797,
-    "timeDay": 790,
-    "timeWeek": 797,
-    "timeMonth": 797,
-    "timeYear": 797,
+    "time": 973,
+    "timeDay": 2205,
+    "timeWeek": 973,
+    "timeMonth": 973,
+    "timeYear": 973,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 296,
-    "timeDay": 315,
-    "timeWeek": 296,
-    "timeMonth": 296,
-    "timeYear": 296,
+    "time": 303,
+    "timeDay": 367,
+    "timeWeek": 303,
+    "timeMonth": 303,
+    "timeYear": 303,
     "dailyMinutesDown": {}
   }
 ]
