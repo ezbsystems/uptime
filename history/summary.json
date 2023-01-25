@@ -47,7 +47,7 @@
     "slug": "website",
     "status": "up",
     "uptime": "99.44%",
-    "uptimeDay": "95.59%",
+    "uptimeDay": "96.34%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.44%",
     "uptimeYear": "99.44%",
@@ -67,19 +67,19 @@
     "url": "https://dashboard.eazybackup.ca",
     "icon": "https://icons.duckduckgo.com/ip3/dashboard.eazybackup.ca.ico",
     "slug": "dashboard",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "98.53%",
-    "uptimeWeek": "99.79%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 297,
-    "timeDay": 285,
-    "timeWeek": 297,
-    "timeMonth": 297,
-    "timeYear": 297,
+    "status": "up",
+    "uptime": "99.61%",
+    "uptimeDay": "96.02%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 295,
+    "timeDay": 279,
+    "timeWeek": 293,
+    "timeMonth": 295,
+    "timeYear": 295,
     "dailyMinutesDown": {
-      "2023-01-25": 21
+      "2023-01-25": 57
     }
   }
 ]
