@@ -4,28 +4,30 @@
     "url": "https://csw.eazybackup.ca/",
     "icon": "https://icons.duckduckgo.com/ip3/csw.eazybackup.ca.ico",
     "slug": "csw-ezb",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 239,
     "timeDay": 214,
     "timeWeek": 230,
     "timeMonth": 239,
     "timeYear": 239,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "csw-obc",
     "url": "https://csw.onlinebackupcanada.ca",
     "icon": "https://icons.duckduckgo.com/ip3/csw.onlinebackupcanada.ca.ico",
     "slug": "csw-obc",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.77%",
     "time": 239,
@@ -34,6 +36,7 @@
     "timeMonth": 239,
     "timeYear": 239,
     "dailyMinutesDown": {
+      "2023-01-25": 1,
       "2023-01-15": 31
     }
   },
@@ -42,18 +45,19 @@
     "url": "https://eazybackup.com/",
     "icon": "https://icons.duckduckgo.com/ip3/eazybackup.com.ico",
     "slug": "website",
-    "status": "up",
-    "uptime": "99.67%",
-    "uptimeDay": "98.28%",
+    "status": "down",
+    "uptime": "99.68%",
+    "uptimeDay": "98.27%",
     "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.67%",
-    "uptimeYear": "99.67%",
+    "uptimeMonth": "99.68%",
+    "uptimeYear": "99.68%",
     "time": 1014,
     "timeDay": 1041,
     "timeWeek": 1153,
     "timeMonth": 1014,
     "timeYear": 1014,
     "dailyMinutesDown": {
+      "2023-01-25": 0,
       "2023-01-24": 25,
       "2023-01-22": 20
     }
